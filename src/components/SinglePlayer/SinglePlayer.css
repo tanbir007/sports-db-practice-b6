@@ -1,0 +1,23 @@
+.single-player img{
+width:100px;
+
+
+}
+.single-player{
+    width:250px;
+    height:450px;
+    padding: 5px;
+    box-shadow: 2px;
+    border: 1px solid rgba(255, 0, 0, 0.363);
+}
+.playerCart-btn{
+    padding: 10px;
+    background-color: brown;
+    color: white;
+    border-radius: 5px;
+    margin-left: 3px;
+}
+.playerCart-btn:hover{
+    background-color: cyan;
+    color:black;
+}
